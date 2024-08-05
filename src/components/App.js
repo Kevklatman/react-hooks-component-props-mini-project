@@ -4,8 +4,6 @@ import ArticleList from "./ArticleList";
 import About from "./About";
 import Header from "./Header";
 
-console.log(blogData);
-
 function App() {
   return (
     <div className="App">
